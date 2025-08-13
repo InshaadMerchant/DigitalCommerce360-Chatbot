@@ -1,0 +1,107 @@
+{"intents": [
+  {"tag": "greeting",
+    "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+    "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+    "context_set": ""
+  },
+  {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+    "context_set": ""
+  },
+  {"tag": "what_is_digitalcommerce360",
+    "patterns": ["What is digitalcommerce360.pk?", "Tell me about digitalcommerce360.pk", "What does digitalcommerce360.pk do?", "Explain digitalcommerce360.pk"],
+    "responses": ["digitalcommerce360.pk is an online platform dedicated to providing knowledge, insights, news, and analysis related to the digital commerce landscape in Pakistan. We aim to be a valuable resource for individuals and businesses looking to understand and succeed in the evolving world of online business in Pakistan."],
+    "context_set": ""
+  },
+  {"tag": "affiliation",
+    "patterns": ["Is digitalcommerce360.pk affiliated with digitalcommerce360.com?", "Are you related to digitalcommerce360.com?", "Do you work with digitalcommerce360.com?"],
+    "responses": ["digitalcommerce360.pk is an independently operated website focused on the digital commerce market in Pakistan. While inspired by the comprehensive approach of digitalcommerce360.com, we are a separate entity catering specifically to the Pakistani context."],
+    "context_set": ""
+  },
+  {"tag": "free_content",
+    "patterns": ["Is the content on digitalcommerce360.pk free?", "Do I have to pay for content?", "Is this website free to use?", "Free content?"],
+    "responses": ["Currently, most of the content on digitalcommerce360.pk is available for free to our users. However, we may introduce premium content or features in the future, which would be clearly indicated."],
+    "context_set": ""
+  },
+  {"tag": "update_frequency",
+    "patterns": ["How often is the website updated?", "How frequently do you update?", "When do you update content?", "Update schedule?"],
+    "responses": ["We strive to update our website regularly with the latest news, trends, and insights relevant to the digital commerce market in Pakistan. The frequency of updates may vary depending on the type of content."],
+    "context_set": ""
+  },
+  {"tag": "student_help",
+    "patterns": ["Can digitalcommerce360.pk help me with my studies in e-commerce or digital marketing?", "Help with e-commerce studies?", "Digital marketing learning?", "Student resources?"],
+    "responses": ["Yes! We aim to provide valuable information, articles, case studies, and analyses that can supplement your learning in e-commerce, digital marketing, and related fields within the Pakistani context."],
+    "context_set": ""
+  },
+  {"tag": "internships",
+    "patterns": ["Do you offer internships or student programs?", "Internship opportunities?", "Student programs?", "Work experience?"],
+    "responses": ["Currently, we do not have formal internship or student programs. However, we encourage you to follow our website for any future announcements regarding such opportunities. Our content itself can serve as a learning resource."],
+    "context_set": ""
+  },
+  {"tag": "academic_use",
+    "patterns": ["Can I use the information on this website for my assignments or research papers?", "Use for assignments?", "Research paper source?", "Academic use?"],
+    "responses": ["Yes, you are welcome to use the information for academic purposes, provided you properly cite digitalcommerce360.pk as the source. Please refer to our Terms of Use regarding the appropriate use of our content."],
+    "context_set": ""
+  },
+  {"tag": "business_help",
+    "patterns": ["How can digitalcommerce360.pk help my business?", "Business benefits?", "Help for businesses?", "Business resources?"],
+    "responses": ["digitalcommerce360.pk is an online platform dedicated to providing knowledge, insights, news, and analysis related to the digital commerce landscape in Pakistan. We aim to be a valuable resource for individuals and businesses looking to understand and succeed in the evolving world of online business in Pakistan."],
+    "context_set": ""
+  },
+  {"tag": "contributions",
+    "patterns": ["Can I contribute articles or share my expertise on digitalcommerce360.pk?", "Write articles?", "Share expertise?", "Contribute content?"],
+    "responses": ["We are open to collaborations and contributions from industry professionals. If you have valuable insights or expertise to share, please visit our \"Contact Us\" page to inquire about potential contributions."],
+    "context_set": ""
+  },
+  {"tag": "consulting",
+    "patterns": ["Do you offer consulting services?", "Consulting?", "Business advice?", "Professional services?"],
+    "responses": ["Currently, our primary focus is on providing informational content. We do not directly offer consulting services at this time. However, the insights shared on our platform can help you formulate your own strategies."],
+    "context_set": ""
+  },
+  {"tag": "advertising_opportunities",
+    "patterns": ["What advertising opportunities are available on digitalcommerce360.pk?", "Advertise on your site?", "Marketing opportunities?", "Sponsorship?"],
+    "responses": ["We offer various advertising and sponsorship opportunities to reach our targeted audience of digital commerce professionals, businesses, and enthusiasts in Pakistan. Please visit our \"Advertise With Us\" page (if you have one) or contact us through our \"Contact Us\" page for more information on available options and rates."],
+    "context_set": ""
+  },
+  {"tag": "audience_profile",
+    "patterns": ["What is your audience profile?", "Who visits your website?", "Target audience?", "Visitor demographics?"],
+    "responses": ["Our audience includes students, professionals, business owners, marketers, technology providers, and academic faculty interested in the digital commerce landscape in Pakistan."],
+    "context_set": ""
+  },
+  {"tag": "website_statistics",
+    "patterns": ["Can I get statistics on your website traffic and demographics?", "Website stats?", "Traffic data?", "Visitor statistics?"],
+    "responses": ["We can provide relevant website statistics and audience demographics to potential advertisers upon request. Please reach out to our advertising team through the \"Contact Us\" or \"Advertise With Us\" page."],
+    "context_set": ""
+  },
+  {"tag": "curriculum_use",
+    "patterns": ["Can I use digitalcommerce360.pk content in my curriculum?", "Use in teaching?", "Educational material?", "Course content?"],
+    "responses": ["Yes, you are welcome to use our articles and resources as supplementary material for your courses on e-commerce, digital marketing, and related subjects, provided you cite digitalcommerce360.pk as the source."],
+    "context_set": ""
+  },
+  {"tag": "academic_collaboration",
+    "patterns": ["Are there opportunities for collaboration on research or educational initiatives?", "Research collaboration?", "Academic partnerships?", "Educational initiatives?"],
+    "responses": ["We are interested in exploring potential collaborations with academic institutions and faculty. Please feel free to reach out to us through our \"Contact Us\" page to discuss your ideas."],
+    "context_set": ""
+  },
+  {"tag": "student_contributions",
+    "patterns": ["Can my students contribute to the website?", "Student articles?", "Student submissions?", "Student writing?"],
+    "responses": ["We may consider publishing well-written and relevant articles from students under the guidance of their faculty. Please contact us to discuss potential submissions."],
+    "context_set": ""
+  },
+  {"tag": "stay_updated",
+    "patterns": ["How can I stay updated on the latest news from digitalcommerce360.pk?", "Newsletter?", "Updates?", "Stay informed?"],
+    "responses": ["You can stay updated by regularly visiting our website, subscribing to our newsletter (if you have one), and following us on our social media channels (if applicable)."],
+    "context_set": ""
+  },
+  {"tag": "suggestions",
+    "patterns": ["I have a suggestion for your website. How can I share it?", "Website suggestions?", "Feedback?", "Improvement ideas?"],
+    "responses": ["We value your feedback! Please feel free to share your suggestions and comments through our \"Contact Us\" page."],
+    "context_set": ""
+  },
+  {"tag": "privacy_policy",
+    "patterns": ["What is your privacy policy?", "Privacy policy?", "Data protection?", "Personal information?"],
+    "responses": ["Please refer to our Privacy Policy page for detailed information on how we collect, use, and protect your personal information."],
+    "context_set": ""
+  }
+]}

@@ -41,7 +41,7 @@ Designed to provide instant insights on e-commerce trends, companies, and report
 1. Clone the repository:
 
 ```
-git clone https://github.com/InshaadMerchant/DigitalCommerce360-Chatbot.git
+git clone <repository-url>
 cd DigitalCommerce360-Chatbot
 ```
 
